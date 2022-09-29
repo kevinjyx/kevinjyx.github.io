@@ -1,1 +1,4 @@
-Hi there! This is the index.md file
+# Github IO Page for IS445
+
+## Yuxuan Jiang, yj26@illinois.edu
+
