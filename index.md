@@ -1,6 +1,6 @@
 # Github IO Page for IS445
 
-Yuxuan Jiang,     yj26@illinois.edu
+Yuxuan Jiang,     [yj26@illinois.edu](mailto:yj26@illinois.edu)
  
 
 Checkout my [LinkedIn](https://www.linkedin.com/in/kevinjyx/)
